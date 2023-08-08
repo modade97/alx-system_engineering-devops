@@ -1,2 +1,2 @@
 #!/bin/bash
-cur -c 1 | paste -s -d 
+cur -c 1 | paste -s -d " 
